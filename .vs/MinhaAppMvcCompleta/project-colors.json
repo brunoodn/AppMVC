@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "3f6d47e3-65e9-4c8f-bd5b-013e924055f2": {
+      "ProjectGuid": "3f6d47e3-65e9-4c8f-bd5b-013e924055f2",
+      "DisplayName": "DevIo.App",
+      "ColorIndex": 0
+    },
+    "556213c4-df5a-408c-90ce-1fd3ffece61e": {
+      "ProjectGuid": "556213c4-df5a-408c-90ce-1fd3ffece61e",
+      "DisplayName": "DevIo.Business",
+      "ColorIndex": 1
+    },
+    "cc410626-faf5-4aaa-b8cd-831d93cdf9ab": {
+      "ProjectGuid": "cc410626-faf5-4aaa-b8cd-831d93cdf9ab",
+      "DisplayName": "DevIo.Data",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

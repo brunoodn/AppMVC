@@ -1,0 +1,15 @@
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\bin\Debug\net5.0\DevIo.Business.deps.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\bin\Debug\net5.0\DevIo.Business.dll
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\bin\Debug\net5.0\ref\DevIo.Business.dll
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\bin\Debug\net5.0\DevIo.Business.pdb
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\DevIo.Business.csproj.AssemblyReference.cache
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\DevIo.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\DevIo.Business.AssemblyInfoInputs.cache
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\DevIo.Business.AssemblyInfo.cs
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\DevIo.Business.csproj.CoreCompileInputs.cache
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\DevIo.Business.dll
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\ref\DevIo.Business.dll
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\DevIo.Business.pdb
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\bin\Debug\net5.0\DevIo.Business.runtimeconfig.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\bin\Debug\net5.0\DevIo.Business.runtimeconfig.dev.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.Business\obj\Debug\net5.0\DevIo.Business.genruntimeconfig.cache
