@@ -45,7 +45,7 @@ namespace DevIo.Data.Repository
         public virtual async Task Atualizar(TEntity entity)
         {
             DbSet.Update(entity);
-            SaveChanges();
+            await SaveChanges();
         }
 
         public virtual async Task Remover(Guid id)

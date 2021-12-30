@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using DevIo.App.ViewModels;
 
 namespace DevIo.App.Data
 {
@@ -12,5 +13,7 @@ namespace DevIo.App.Data
             : base(options)
         {
         }
+        public DbSet<DevIo.App.ViewModels.FornecedorViewModel> FornecedorViewModel { get; set; }
+        public DbSet<DevIo.App.ViewModels.EnderecoViewModel> EnderecoViewModel { get; set; }
     }
 }

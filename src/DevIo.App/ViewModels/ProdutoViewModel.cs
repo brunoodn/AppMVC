@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using System;
+using System.Collections.Generic;
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
@@ -14,15 +15,16 @@ namespace DevIo.App.ViewModels
         [DisplayName("Fornecedor")]
         public Guid FornecedorId { get; set; }
 
-        [Required]
+        [Required(ErrorMessage = "O campo {0} é obrigatório.")]
         [StringLength(100, ErrorMessage = "O campo {0} é obrigatório.", MinimumLength = 2)]
         public string Nome { get; set; }
 
         [DisplayName("Descrição")]
-        [Required]
+        [Required(ErrorMessage = "O campo {0} é obrigatório.")]
         [StringLength(100, ErrorMessage = "O campo {0} é obrigatório.", MinimumLength = 2)]
         public string Descricao { get; set; }
 
+        [Display(Name = "Imagem do Produto")]
         public IFormFile ImagemUpload { get; set; }
         public string Imagem { get; set; }
 
@@ -35,5 +37,7 @@ namespace DevIo.App.ViewModels
         [DisplayName("Ativo?")]
         public bool Ativo { get; set; }
         public FornecedorViewModel Fornecedor { get; set; }
+
+        public IEnumerable<FornecedorViewModel> Fornecedores { get; set; }
     }
 }
