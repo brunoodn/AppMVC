@@ -27,7 +27,7 @@ using DevIo.App.Models;
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2fdedc805f97a3de0a6fa565ccdbf005324d3aab", @"/Views/Fornecedores/_Endereco.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"30ccf9dfa6325c6667d978b9a769cdc79ab47e9a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f300a0da788d08a58c9506b39bc8b505e7630c5a", @"/Views/_ViewImports.cshtml")]
     public class Views_Fornecedores__Endereco : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<DevIo.App.ViewModels.FornecedorViewModel>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("class", new global::Microsoft.AspNetCore.Html.HtmlString("control-label"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);

@@ -175,3 +175,13 @@ C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\obj\Debug\net5.0
 C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
 C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_Endereco.cshtml.g.cs
 C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\bin\Debug\net5.0\libman.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_DetalheEndereco.cshtml.g.cs
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\obj\Debug\net5.0\Razor\Views\Produtos\_ListaProdutos.cshtml.g.cs
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\obj\Debug\net5.0\Razor\Views\Fornecedores\_AtualizarEndereco.cshtml.g.cs
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\bin\Debug\net5.0\appsettings.Production.Development.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\bin\Debug\net5.0\appsettings.Production.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\bin\Debug\net5.0\appsettings.Production.Staging.Development.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\bin\Debug\net5.0\appsettings.Production.Staging.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\bin\Debug\net5.0\appsettings.Staging.Development.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\bin\Debug\net5.0\appsettings.Staging.json
+C:\Users\CBRASIL\source\repos\MinhaAppMvcCompleta\src\DevIo.App\bin\Debug\net5.0\FluentValidation.dll

@@ -1,5 +1,5 @@
 ﻿@model IEnumerable<DevIo.App.ViewModels.FornecedorViewModel>
-
+@using DevIo.App.Extensions
 @{
     ViewData["Title"] = "Lista de Fornecedores";
 }
@@ -31,15 +31,15 @@
                 @Html.DisplayFor(modelItem => item.Nome)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Documento)
+                @this.FormataDocumento(item.TipoFornecedor, item.Documento)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Ativo)
             </td>
             <td class="text-right">
-                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id"><spam class="fa fa-search"></spam></a>
-                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id"><spam class="fa fa-pencil-alt"></spam></a>
-                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id"><spam class="fa fa-trash"></spam></a>
+                <a class="btn btn-info" asp-action="Details" asp-route-id="@item.Id"><span class="fa fa-search"></span></a>
+                <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id"><span class="fa fa-pencil-alt"></span></a>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id"><span class="fa fa-trash"></span></a>
             </td>
         </tr>
 }
